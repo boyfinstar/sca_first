@@ -1,0 +1,119 @@
+.titl{
+    text-align: center;
+    font-size: 700%;
+    margin-top: 1%;
+}
+/* .container{
+    background-color: white;
+    height: 150px;
+    
+} */
+.box{
+    background-color: rgba(0, 0, 0, 0.739);
+    height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: small;
+}
+.box2{
+    background-color: rgba(0, 0, 0, 0.633);
+    height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: small;
+}
+.box3{
+    background-color: rgba(0, 0, 0, 0.41);
+    height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: small;
+    white-space: nowrap;
+}
+.box4{
+    background-color: rgba(0, 0, 0, 0.481);
+    height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: small;
+    white-space: nowrap;
+}
+.box5{
+    background-color: rgba(0, 0, 0, 0.595);
+    height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: small;
+    white-space: nowrap;
+}
+.box6{
+    background-color: rgba(0, 0, 0, 0.944);
+    height: 50px;
+    margin-top: 10px;
+    color: white;
+}
+
+.box7{
+    background-color: white;
+    height: 150px;
+    margin-top: 40px;
+    color: rgba(0, 0, 0, 0.794);
+    font-size: small;
+    letter-spacing: 1px;
+    line-height: 150%;
+    
+}
+.box8{
+    background-color: rgb(187, 170, 170);
+    height: 250px;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.794);
+    font-size: small;
+    word-spacing: 20%;
+    
+    line-height: 150%; 
+}
+.box10{
+    background-color: rgb(187, 170, 170);
+    height: 220px;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.794);
+    font-size: small;
+    word-spacing: 20%;
+    
+    line-height: 250%; 
+}
+.box12{
+    background-color: rgba(250, 250, 250, 0.913);
+    height: 200px;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.794);
+    font-size: small;
+    word-spacing: 20%; 
+    text-align: center;
+}
+.box9{
+    background-color: white;
+    height: 50px;
+    margin-top: 2%;
+    margin-bottom: -1%;
+}
+.box11{
+    margin-top: 10%;
+    font-size: small;
+    word-spacing: 20%;
+   
+    line-height: 150%; 
+}
+.strng{
+    font-size: large;
+    font-weight: bold;
+    color: black;
+
+}
+.blak{
+    font-size: xx-small;
+}
+.log{
+    margin-top: 2%;
+}
