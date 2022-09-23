@@ -11,29 +11,62 @@
 .box{
     background-color: rgba(0, 0, 0, 0.739);
     height: 50px;
-    margin-top: 10px;
+    margin-top: 5px;
     color: white;
     font-size: small;
+    border: 0.2px solid;
 }
+hr{
+    margin-left: 8%;
+}
+.boxx{
+    border-radius: 4px;
+    background: #eee;
+    border: 3px solid;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 12px;
+    height: 50px;
+    position: relative;
+    border-color: white;
+}
+.boxx1{
+    border-radius: 4px;
+    background: #eee;
+    border: 3px solid;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 12px;
+    height: 50px;
+    position: relative;
+    border-color: white;
+}
+
 .box2{
     background-color: rgba(0, 0, 0, 0.633);
     height: 50px;
-    margin-top: 10px;
+    margin-top: 5px;
     color: white;
     font-size: small;
+    border: 0.2px solid;
+    border-color: white;
 }
 .box3{
     background-color: rgba(0, 0, 0, 0.41);
     height: 50px;
-    margin-top: 10px;
+    margin-top: 5px;
     color: white;
     font-size: small;
     white-space: nowrap;
+    border: 0.2px solid;
+    border-color: white;
 }
 .box4{
+    border: 0.2px solid;
+    border-color: white;
     background-color: rgba(0, 0, 0, 0.481);
     height: 50px;
-    margin-top: 10px;
+    margin-top: 5px;
     color: white;
     font-size: small;
     white-space: nowrap;
@@ -41,16 +74,20 @@
 .box5{
     background-color: rgba(0, 0, 0, 0.595);
     height: 50px;
-    margin-top: 10px;
+    margin-top: 5px;
     color: white;
     font-size: small;
     white-space: nowrap;
+    border: 0.2px solid;
+    border-color: white;
 }
 .box6{
     background-color: rgba(0, 0, 0, 0.944);
     height: 50px;
-    margin-top: 10px;
+    margin-top: 5px;
     color: white;
+    border: 0.2px solid;
+    border-color: white;
 }
 
 .box7{
@@ -59,61 +96,72 @@
     margin-top: 40px;
     color: rgba(0, 0, 0, 0.794);
     font-size: small;
-    letter-spacing: 1px;
     line-height: 150%;
     
 }
 .box8{
-    background-color: rgb(242, 226, 235);
+    background-color:#ffffee;
     height: 250px;
     margin-top: 10px;
     color: rgba(0, 0, 0, 0.794);
     font-size: small;
     word-spacing: 20%;
-    
-    line-height: 150%; 
+    border: 1px solid;
+    border-color: rgba(0, 0, 0, 0.056);
+    line-height: 150%;
+    padding-top: 2%; 
 }
 .box10{
-    background-color: rgb(187, 170, 170);
-    height: 220px;
+    background-color: #ffffee;
+    height: 200px;
     margin-top: 10px;
     color: rgba(0, 0, 0, 0.794);
-    font-size: small;
-    word-spacing: 20%;
-    
-    line-height: 250%; 
+    border: 1px solid;
+    border-color: rgba(0, 0, 0, 0.056);
+    line-height: 110%;
+    padding-top: 2%; 
 }
 .box12{
+    padding-top: 2%;
     background-color: rgba(250, 250, 250, 0.913);
-    height: 200px;
+    height: 170px;
     margin-top: 10px;
     color: rgba(0, 0, 0, 0.794);
     font-size: small;
     word-spacing: 20%; 
     text-align: center;
+    border: 1px solid;
+    border-color: rgba(0, 0, 0, 0.056);
 }
 .box9{
     background-color: white;
     height: 50px;
     margin-top: 2%;
     margin-bottom: -1%;
+    font-size: 150%;
+    font-weight: 900;
 }
 .box11{
-    margin-top: 10%;
+    margin-top: 1%;
     font-size: small;
-    word-spacing: 20%;
-   
     line-height: 150%; 
+    line-height: 20px;
+
 }
 .strng{
     font-size: large;
     font-weight: bold;
     color: black;
-
 }
 .blak{
     font-size: xx-small;
 }
 .log{
     margin-top: 2%;
+}
+.last{
+    font-size: small;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 0.588);
+    text-align: center;
 }
