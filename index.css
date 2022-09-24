@@ -18,7 +18,10 @@
 }
 hr{
     margin-left: 8%;
+    width: 80%;
+    color: rgba(0, 0, 0, 0.588);
 }
+
 .boxx{
     border-radius: 4px;
     background: #eee;
@@ -97,7 +100,7 @@ hr{
     color: rgba(0, 0, 0, 0.794);
     font-size: small;
     line-height: 150%;
-    
+    margin-bottom: 15%;
 }
 .box8{
     background-color:#ffffee;
@@ -141,6 +144,14 @@ hr{
     font-size: 150%;
     font-weight: 900;
 }
+.box91{
+    background-color: white;
+    height: 50px;
+    margin-top: 2%;
+    margin-bottom: -1%;
+    font-size: 150%;
+    font-weight: 900;
+}
 .box11{
     margin-top: 1%;
     font-size: small;
@@ -165,4 +176,70 @@ hr{
     color: rgba(0, 0, 0, 0.588);
     text-align: center;
     bottom: 0;
+}
+
+@media (max-width: 768px) {
+    /* .box8{
+        font-size: 8px;
+
+    }
+    .box10{
+        font-size: 10px;
+
+    }
+    .box12{
+        font-size: 10px;
+
+    }
+    .box11{
+        font-size: 10px;
+
+    }
+    .box7{
+        font-size: 10px;
+        margin-bottom: 45%;
+    } */
+    .container1{
+        display: grid;
+        vertical-align: center;
+        text-align: center;
+    }
+    .boxx{
+        display: none;
+    }
+    .box91{
+        display: none;
+    }
+    .box6{
+        display: none;
+    }
+    .container4{
+        display: grid;
+        vertical-align: center;
+        white-space: nowrap;
+    }
+    .container1{
+        display: grid;
+        vertical-align: center;
+        text-align: center;
+    }
+    .container1{
+        display: grid;
+        vertical-align: center;
+        text-align: center;
+    }
+    .container1{
+        display: grid;
+        vertical-align: center;
+        text-align: center;
+    }
+    .container1{
+        display: grid;
+        vertical-align: center;
+        text-align: center;
+    }
+    hr{
+        width: 80%;
+        display: ;
+    }
 }
