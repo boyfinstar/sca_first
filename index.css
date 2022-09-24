@@ -217,29 +217,43 @@ hr{
         display: grid;
         vertical-align: center;
         white-space: nowrap;
+        margin-top: 10%;
     }
-    .container1{
+    .container2{
+        display: grid;
+        vertical-align: center;
+        text-align: center;
+        margin-top: 10%;
+    }
+    .container3{
+        display: grid;
+        vertical-align: center;
+        text-align: center;
+        margin-top: 10%;
+    
+    }
+    .container5{
+        margin-top: 20%;
         display: grid;
         vertical-align: center;
         text-align: center;
     }
-    .container1{
-        display: grid;
-        vertical-align: center;
-        text-align: center;
+    .box11{
+        margin-top: 1%;
     }
-    .container1{
-        display: grid;
-        vertical-align: center;
-        text-align: center;
+    .box7{
+        margin-bottom: 20%;
     }
-    .container1{
-        display: grid;
-        vertical-align: center;
-        text-align: center;
+   
+    .titl{
+       font-size: 350%; 
     }
-    hr{
-        width: 80%;
-        display: ;
+    .hrr{
+        margin-top: 20%;
+        /* visibility: hidden; */
+    }
+    body{
+        overflow: hidden;
     }
 }
+
